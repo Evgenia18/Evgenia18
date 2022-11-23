@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ctroki2", "Ctroki2\Ctroki2.csproj", "{5404AF62-5037-4AB7-BBB3-1260F247FAB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5404AF62-5037-4AB7-BBB3-1260F247FAB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5404AF62-5037-4AB7-BBB3-1260F247FAB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5404AF62-5037-4AB7-BBB3-1260F247FAB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5404AF62-5037-4AB7-BBB3-1260F247FAB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ACC5654-57D4-4984-8B73-C6BF202E6991}
+	EndGlobalSection
+EndGlobal
